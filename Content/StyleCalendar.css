@@ -1,0 +1,29 @@
+﻿.custom-calendar {
+    border: 1px solid #ccc;
+    background-color: aliceblue;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-weight: bold; 
+}
+
+.custom-calendar td, .custom-calendar th {
+    padding: 10px;
+    font-weight: bold; 
+}
+
+.custom-calendar .calendar-header {
+    background-color: #4CAF50; 
+    color: blue;
+    font-weight: bold; 
+}
+
+.custom-calendar .calendar-selected-day {
+    background-color: #4CAF50; 
+    color: white;
+    font-weight: bold; 
+}
+
+.custom-calendar .calendar-day {
+    font-weight: bold; 
+}

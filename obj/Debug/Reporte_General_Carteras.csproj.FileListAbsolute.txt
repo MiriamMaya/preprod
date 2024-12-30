@@ -1,0 +1,2 @@
+C:\Proyecto\Reporte_General_Carteras\obj\Debug\Reporte_General_Carteras.csproj.AssemblyReference.cache
+C:\Proyecto\Reporte_General_Carteras\obj\Debug\Reporte_General_Carteras.csproj.CoreCompileInputs.cache
